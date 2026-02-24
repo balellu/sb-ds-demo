@@ -10,7 +10,7 @@ metadata:
   projectType: springboot
   language: Java
   version: 1.4.0
-  globalMemoryLimit: 2674Mi
+  #globalMemoryLimit: 2674Mi
 #starterProjects:
 #  - name: springbootproject
 #    git:
