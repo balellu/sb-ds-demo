@@ -7,3 +7,7 @@ For further reference, please consider the following sections:
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.5.RELEASE/maven-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.5.RELEASE/maven-plugin/reference/html/#build-image)
 
+### VSCode Local changes
+
+* VSCode remote does not check out code, it only provides runtime environment
+* Once the connection is established, check out the repository
